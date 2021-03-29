@@ -71,7 +71,7 @@ E. Blur
 - [ ] Select the Mask with Shape option.
 - [ ] Select Responsive Design and Pin To the text layer.
 - [ ] Select Responsive Design and Pin To the Video Frame.
-- [ ] Use the Align and Transform controls.
+- [x] Use the Align and Transform controls.
 
 #### Q10. In which panel do you assemble media in order to create sequence?
 
@@ -115,7 +115,7 @@ E. Blur
 - [ ] in the Media Browser, mark in and out points on a clip, and then import.
 - [ ] Mark in and out points on the clip in the Program Monitor and select choose Clip > Make Subclip.
 - [ ] Mark in and out points on a clip in the Timeline panel and then drag it back into a bin.
-- [ ] Mark in and out points on the clip in the Source Monitor and select Clip > Make Subclip.
+- [x] Mark in and out points on the clip in the Source Monitor and select Clip > Make Subclip.
 
 #### Q16. What adjustment can help return edge detail to video footage?
 
